@@ -26,5 +26,5 @@ Balloon Hashing is a memory-hard password hashing algorithm introduced in 2016 a
 ## 📦 Installation
 
 ```bash
-npm install @woojoo/balloon-hash-wasm
+npm install balloon_hash
 ```
