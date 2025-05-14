@@ -1,6 +1,6 @@
 {
   "name": "balloon_hash",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A secure WebAssembly-based implementation of Balloon Hashing (RFC 9197)",
   "main": "dist/balloon_hash.js",
   "types": "dist/balloon_hash.d.ts",
